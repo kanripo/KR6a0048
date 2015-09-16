@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 是法非法經
+#+DATE: 2015-08-30 19:29:42.555140
+#+PROPERTY: JUAN 0
